@@ -1,3 +1,9 @@
 models/
 __pycache__/
 *.py[cod]
+.venv/
+model.joblib
+mlruns/
+mlartifacts/
+data/
+.ipynb_checkpoints/
