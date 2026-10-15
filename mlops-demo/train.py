@@ -28,3 +28,4 @@ print("Accuracy:", accuracy)
 # 5. Save the trained model
 joblib.dump(model, "model.joblib")
 print("Model saved successfully!")
+print("You can now run 'mlops-demo/serve.py' to start the model server.")
